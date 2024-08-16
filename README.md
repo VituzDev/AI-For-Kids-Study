@@ -1,6 +1,6 @@
 # IA para Crianças: Explorando o Impacto da Inteligência Artificial na Aprendizagem Infantil
 
-![Crianças usando IA para estudar]()
+![Crianças usando IA para estudar](./kid-and-IA.jpg)
 
 ## Introdução
 
